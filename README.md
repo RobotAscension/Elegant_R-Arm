@@ -1,4 +1,4 @@
-# Eelegant_R-Arm
+# Elegant_R-Arm
 
 ## RobotArm Doc
 
